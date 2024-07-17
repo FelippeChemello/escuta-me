@@ -1,0 +1,9 @@
+.env
+__pycache__
+*.wav
+*.ogg
+*.mp3
+*.mp4
+transcribe.py
+transcript.json
+api.rest
